@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">图书管理系统</string>
+    <string name="text1">SQLite数据库测试应用</string>
+    <string name="createButton">创建数据库</string>
+    <string name="addButton">添加数据</string>
+    <string name="deleteButton">删除数据</string>
+    <string name="updateButton">更新数据</string>
+    <string name="bookName">书名:</string>
+    <string name="author">作者:</string>
+    <string name="pages">页数:</string>
+    <string name="price">价钱:</string>
+    <string name="bookNameHint">Book Name</string>
+    <string name="authorHint">Author</string>
+    <string name="pagesHint">Pages</string>
+    <string name="priceHint">Price</string>
+    <string name="addBookVerify">确认添加</string>
+    <string name="resetBook">重置信息</string>
+    <string name="text2">请输入要更改信息的书名</string>
+    <string name="text3">以下是要修改的信息</string>
+    <string name="changButton">确认修改</string>
+    <string name="text4">请输入要删除的书名</string>
+    <string name="text5">警告</string>
+    <string name="deleteBook">确认删除</string>
+    <string name="queryData">查询数据</string>
+    <string name="loginText">欢迎登陆图书管理平台</string>
+    <string name="account">用户名</string>
+    <string name="password">密  码</string>
+    <string name="editAccount">请输入账号</string>
+    <string name="editPassword">请输入密码</string>
+    <string name="saveAccount">保存账户</string>
+    <string name="login">登陆</string>
+    <string name="exit">退出</string>
+</resources>

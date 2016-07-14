@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Books Management System</string>
+    <string name="text1">SQLite Test Demo</string>
+    <string name="createButton">Create SQLite</string>
+    <string name="addButton">Add Data</string>
+    <string name="deleteButton">Delete Data</string>
+    <string name="updateButton">Update Data</string>
+    <string name="bookName">Book Name:</string>
+    <string name="author">Author:</string>
+    <string name="pages">Pages:</string>
+    <string name="price">Price:</string>
+    <string name="bookNameHint">Book Name</string>
+    <string name="authorHint">Author</string>
+    <string name="pagesHint">Pages</string>
+    <string name="priceHint">Price</string>
+    <string name="addBookVerify">Confirm</string>
+    <string name="resetBook">Reset</string>
+    <string name="text2">Please input book name</string>
+    <string name="text3">The following is the information to be modified</string>
+    <string name="changButton">>Confirm</string>
+    <string name="text4">Please input book name that U want to delete</string>
+    <string name="text5">ATTENTION</string>
+    <string name="deleteBook">Confirm</string>
+    <string name="queryData">Query Data</string>
+    <string name="loginText">Welcome to visit BMS</string>
+    <string name="account">Account</string>
+    <string name="password">Password</string>
+    <string name="editAccount">Please input account</string>
+    <string name="editPassword">Please input password</string>
+    <string name="saveAccount">Save Account</string>
+    <string name="login">Login</string>
+    <string name="exit">Exit</string>
+</resources>

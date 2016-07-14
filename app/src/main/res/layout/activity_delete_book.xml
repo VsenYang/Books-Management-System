@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7ba23f"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text5"
+        android:textSize="60sp"
+        android:gravity="center"
+        android:textColor="#268785"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text4"
+        android:textColor="#f7c242"
+        android:textSize="30sp"
+        android:gravity="center"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/deleteBookName"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:singleLine="true"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/deleteButtonVerify"
+        android:text="@string/deleteBook"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        android:background="@color/green"/>
+</LinearLayout>
